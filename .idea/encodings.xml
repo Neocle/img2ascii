@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/include/img2ascii/oimage.h" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/include/img2ascii/opalette.h" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/include/img2ascii/pixels.h" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/pixels.cpp" charset="ISO-8859-1" />
-  </component>
-</project>
